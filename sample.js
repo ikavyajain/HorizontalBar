@@ -1,6 +1,6 @@
 import React from 'react'
 import { View } from 'react-native'
-import { BarChart } from 'react-native-svg-charts'
+import { BarChart, Grid } from 'react-native-svg-charts'
 import { Text } from 'react-native-svg'
 
 function App()  {
